@@ -3,7 +3,7 @@
 Firstly install the *UltraPermissions.jar* on every Server including your BungeeCord.
 In the next step, you have to enable MySQL for every Server via the intuitive interface.
 <br />
-Execute **/upc addSuperadmin (Your IGN)** and then **/uperms** and navigate to *Settings > MySQL*.
+Execute **/upc addSuperadmin (Your IGN)** via Console and then **/uperms** and navigate to *Settings > MySQL*.
 Then enter your MySQL Credentials and restart the Server.
 After you have repeated that process for every Server, Ultra Permissions should now be fully functional!
 <br />
