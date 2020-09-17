@@ -5,7 +5,7 @@ In the next step, you have to enable MySQL for every Server via the intuitive in
 
 <br />
 
-* Execute **/upc addSuperadmin (Your IGN)** via Console and then **/uperms** and navigate to *Settings > MySQL*
+* Execute **/upc addSuperadmin (Your IGN)** via Console to give yourself the ability to access /uperms
 * Execute **/uperms**, navigate to *Settings > MySQL* and enter your MySQL credentials
 * Restart your Server
 
