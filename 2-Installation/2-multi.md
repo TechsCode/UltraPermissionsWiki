@@ -5,8 +5,10 @@ In the next step, you have to enable MySQL for every Server via the intuitive in
 
 <br />
 
-Execute **/upc addSuperadmin (Your IGN)** via Console and then **/uperms** and navigate to *Settings > MySQL*.
-Then enter your MySQL Credentials and restart the Server.
+* Execute **/upc addSuperadmin (Your IGN)** via Console and then **/uperms** and navigate to *Settings > MySQL*
+* Execute **/uperms**, navigate to *Settings > MySQL* and enter your MySQL credentials
+* Restart your Server
+
 After you have repeated that process for every Server, Ultra Permissions should now be fully functional!
 
 <br />
