@@ -1,7 +1,7 @@
 ## Commands
 
 * **/uperms** to open the Administrative GUI
-  (Requires to have *superadmin* status)
+  (Requires to have *superadmin access*)
   
 <br />
 
