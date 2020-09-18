@@ -27,4 +27,7 @@
 <br />
 
 These commands are mainly added for automation since everything can be controlled more conveniently through the GUI.
+
+<br>
+
 If you still want to use those commands manually, you will need to have *superadmin access*
