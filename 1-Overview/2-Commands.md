@@ -6,9 +6,9 @@
 <br />
 
 ### Other Commands
-* **/upc AddGroup (User) (Group) [Options]**
-* **/upc AddGroupPermission (Group) (Permission) [Options]**
-* **/upc AddPlayerPermission (User) (Permission) [Options] **
+* **/upc AddGroup (User) (Group) [Options..]**
+* **/upc AddGroupPermission (Group) (Permission) [Options..]**
+* **/upc AddPlayerPermission (User) (Permission) [Options..] **
 * **/upc AddSuperAdmin (User)**
 * **/upc RemoveGroup (User) (Group)**
 * **/upc RemoveGroupPermission (Group) (Permission)**
@@ -18,6 +18,11 @@
 * **/upc SetPlayerPrefix (User) (Prefix)**
 * **/upc SetPlayerSuffix (User) (Suffix)**
 * **/upc Transfer (File/MySQL) (File/MySQL)**
+
+### Options
+* Timed Options e.g ``3d`` or ``20h 4m``
+* Server Options e.g ``lobby``
+* World Options e.g ``world_nether``
 
 <br />
 
