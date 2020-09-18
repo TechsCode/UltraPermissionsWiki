@@ -14,7 +14,7 @@
 * **/upc RemoveGroupPermission (Group) (Permission)**
 * **/upc RemovePlayerPermission (User) (Permission)**
 * **/upc RemoveSuperAdmin (User)**
-* **/upc SetGroups (User)** *Groups..*
+* **/upc SetGroups (User) (Groups..)**
 * **/upc SetPlayerPrefix (User) (Prefix)**
 * **/upc SetPlayerSuffix (User) (Suffix)**
 * **/upc Transfer (File/MySQL) (File/MySQL)**
