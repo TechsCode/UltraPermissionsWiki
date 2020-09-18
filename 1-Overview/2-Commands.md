@@ -6,15 +6,15 @@
 <br />
 
 ### Other Commands
-* **/upc AddGroup (User) (Group) [Options..]**
-* **/upc AddGroupPermission (Group) (Permission) [Options..]**
-* **/upc AddPlayerPermission (User) (Permission) [Options..] **
+* **/upc AddGroup (User) (Group)** *Options..*
+* **/upc AddGroupPermission (Group) (Permission)** *Options..*
+* **/upc AddPlayerPermission (User) (Permission)** *Options..*
 * **/upc AddSuperAdmin (User)**
 * **/upc RemoveGroup (User) (Group)**
 * **/upc RemoveGroupPermission (Group) (Permission)**
 * **/upc RemovePlayerPermission (User) (Permission)**
 * **/upc RemoveSuperAdmin (User)**
-* **/upc SetGroups (User) [Groups..]**
+* **/upc SetGroups (User)** *Groups..*
 * **/upc SetPlayerPrefix (User) (Prefix)**
 * **/upc SetPlayerSuffix (User) (Suffix)**
 * **/upc Transfer (File/MySQL) (File/MySQL)**
