@@ -1,6 +1,8 @@
 ## Network Installation
 
-Before installing, make sure bungeecord is set to true in EVERY spigot.yml
+<br />
+
+**Important:** Before installing, make sure bungeecord is set to true in EVERY spigot.yml
 
 <br />
 
