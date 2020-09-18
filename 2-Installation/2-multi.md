@@ -1,5 +1,9 @@
 ## Network Installation
 
+```
+Before installing, make sure bungeecord is set to true in EVERY spigot.yml
+```
+
 Firstly install the *UltraPermissions.jar* on every Server including your BungeeCord.
 In the next step, you have to enable MySQL for every Server via the intuitive interface.
 
