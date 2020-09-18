@@ -4,19 +4,19 @@ These Placeholders can only be used after installing the *PlaceholderAPI* & only
 
 <br />
 
-* **%uperms_prefixes%** Shows all Prefixes that a Player has seperated by a space.
-  Output Example: ``&e&lOwner &a&lMerchant``
-* **%uperms_prefix%** Shows the first Prefix that a player has.
-  Output Example:  ``&e&lOwner``
-* **%uperms_rank%** Shows the name of the first rank that the player has.
-  Output Example:  ``Owner``
-* **%uperms_rank_timer%** Shows the remaining time of the first temporary group.
-  Output Example:  ``3 minutes, 20 seconds``
-* **%uperms_secondaryprefix%** Same as *%uperms_prefix%* but with the second group.
-  Output Example:  `&a&lMerchant`
-* **%uperms_secondarysuffix%** Same as *%uperms_suffix%* but with the second group.
-  Output Example:  `&a`
-* **%uperms_suffixes%** Shows all Suffixes that a Player has seperated by a space.
-  Output Example:  `&e &a`
-* **%uperms_suffix%** Shows the first Suffix that a player has.
-  Output Example:  ``&e``
+* **%uperms_prefixes%** Ex. ``&e&lOwner &a&lMerchant``
+  Shows all Prefixes that a Player has seperated by a space.
+* **%uperms_prefix%** Ex. ``&e&lOwner``
+  Shows the first Prefix that a player has.
+* **%uperms_rank%** Ex. ``Owner``
+  Shows the name of the first rank that the player has.
+* **%uperms_rank_timer%** Ex. ``3 minutes, 20 seconds``
+  Shows the remaining time of the first temporary group.
+* **%uperms_secondaryprefix%** Ex. ``&a&lMerchant``
+  Same as *%uperms_prefix%* but with the second group.
+* **%uperms_secondarysuffix%** Ex. ``&a``
+  Same as *%uperms_suffix%* but with the second group.
+* **%uperms_suffixes%** Ex. ``&e &a``
+  Shows all Suffixes that a Player has seperated by a space.
+* **%uperms_suffix%** Ex. ``&e``
+  Shows the first Suffix that a player has.
