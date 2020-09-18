@@ -2,6 +2,8 @@
 
 These Placeholders can only be used after installing the *PlaceholderAPI* & only with a plugin that supports those.
 
+<br />
+
 * **%uperms_prefixes%** Shows all Prefixes that a Player has seperated by a space.
   Output Example: ``&e&lOwner &a&lMerchant``
 * **%uperms_prefix%** Shows the first Prefix that a player has.
