@@ -10,6 +10,9 @@
 * **/upc AddGroupPermission (Group) (Permission)** *Options..*
 * **/upc AddPlayerPermission (User) (Permission)** *Options..*
 * **/upc AddSuperAdmin (User)**
+* **/upc PurgeGroup (Group)**
+* **/upc PurgeGroupPermission (Permission)**
+* **/upc PurgePlayerPermission (Permission)**
 * **/upc RemoveGroup (User) (Group)**
 * **/upc RemoveGroupPermission (Group) (Permission)**
 * **/upc RemovePlayerPermission (User) (Permission)**
