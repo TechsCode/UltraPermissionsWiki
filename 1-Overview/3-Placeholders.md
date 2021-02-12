@@ -20,3 +20,5 @@ These Placeholders can only be used after installing the *PlaceholderAPI* & only
   Shows all Suffixes that a Player has seperated by a space.
 * **%uperms_suffix%** Ex. ``&e``
   Shows the first Suffix that a player has.
+* **%uperms_rank_timer_###%**
+  Returns the remaining time of a specific rank. Ex. %uperms_rank_timer_Owner%
