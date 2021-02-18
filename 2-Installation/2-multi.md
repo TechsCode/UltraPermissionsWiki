@@ -17,15 +17,15 @@ In the next step, you have to enable MySQL for every Server via the intuitive in
 * Restart your Server
 
 After you have repeated that process for every Server, Ultra Permissions should now be fully functional!
-If UltraPermissions did not connect please follow the steps below.
+If Ultra Permissions did not connect please follow the steps below.
 
 <br />
 
 #### Connecting the Bungee (Proxy)
-* Navigate to the UltraPermissions folder of a connected server
+* Navigate to the Ultra Permissions folder of a connected server
 * Enter the files *Registery.json* and copy the the MySQL key
 **NOTE:** This key can continue on a second line!
-* Navigate to the UltraPermissions folder on the bungee
+* Navigate to the Ultra Permissions folder on the bungee
 * Open the *Registery.json* file and replace the key
 
 The bungee should now been connected to your database.
