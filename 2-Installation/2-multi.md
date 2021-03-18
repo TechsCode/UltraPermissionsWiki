@@ -7,8 +7,8 @@
 <br />
 
 Firstly install the *UltraPermissions.jar* on every Server including your BungeeCord.
-In the next step, you have to enable MySQL for every Server via the intuitive interface.
-**Note:** If you already have permissions connect the server with permission first!
+In the next step, you have to enable MySQL for every Server with the ingame GUI.
+**Note:** When you have already configuered permissions and groups on a server connect that server first and import its data. Than connect all other server.
 
 <br />
 
