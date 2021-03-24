@@ -17,6 +17,10 @@ In the next step, you have to enable MySQL for every Server with the ingame GUI.
 * Restart your Server
 
 After you have repeated that process for every Server, Ultra Permissions should now be fully functional!
+
+For the people that have already setup permissions and groups you need to run the folowing command!
+**/upc Transfer File MySQL**
+
 If Ultra Permissions did not connect please follow the steps below.
 
 <br />
