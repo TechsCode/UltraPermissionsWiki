@@ -7,12 +7,14 @@
 
 ### Other Commands
 * **/upc AddGroup (User) (Group)** *Options..*
+* **/upc AddGroup (User)) (Group) (Optional Operator: "+" or "-")** *Options..*
 * **/upc AddGroupPermission (Group) (Permission)** *Options..*
 * **/upc AddPlayerPermission (User) (Permission)** *Options..*
 * **/upc AddSuperAdmin (User)**
 * **/upc PurgeGroup (Group)**
 * **/upc PurgeGroupPermission (Permission)**
 * **/upc PurgePlayerPermission (Permission)**
+* **/upc PurgeSuperAdmins**
 * **/upc RemoveGroup (User) (Group)**
 * **/upc RemoveGroupPermission (Group) (Permission)**
 * **/upc RemovePlayerPermission (User) (Permission)**
@@ -21,6 +23,7 @@
 * **/upc SetPlayerPrefix (User) (Prefix)**
 * **/upc SetPlayerSuffix (User) (Suffix)**
 * **/upc Transfer (File/MySQL) (File/MySQL)**
+* **/upc AddGroup <Player> <Group> <Optional Operator: "+" or "-"> <Time>**
 
 ### Options
 * Timed Options e.g ``3d`` or ``20h 4m``
