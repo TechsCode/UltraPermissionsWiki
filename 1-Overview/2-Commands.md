@@ -24,6 +24,7 @@
 * **/upc SetPlayerSuffix (User) (Suffix)**
 * **/upc Transfer (File/MySQL) (File/MySQL)**
 * **/upc AddGroup <Player> <Group> <Optional Operator: "+" or "-"> <Time>**
+* **/upc createGroup <groupName>**
 
 ### Options
 * Timed Options e.g ``3d`` or ``20h 4m``
