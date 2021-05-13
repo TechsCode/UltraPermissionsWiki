@@ -11,14 +11,17 @@
 * **/upc AddGroupPermission (Group) (Permission)** *Options..*
 * **/upc AddPlayerPermission (User) (Permission)** *Options..*
 * **/upc AddSuperAdmin (User)**
+* **/upc DeleteGroup <Group>**
 * **/upc PurgeGroup (Group)**
 * **/upc PurgeGroupPermission (Permission)**
+* **/upc PurgePlayerGroups <User>**
 * **/upc PurgePlayerPermission (Permission)**
 * **/upc PurgeSuperAdmins**
 * **/upc RemoveGroup (User) (Group)**
 * **/upc RemoveGroupPermission (Group) (Permission)**
 * **/upc RemovePlayerPermission (User) (Permission)**
 * **/upc RemoveSuperAdmin (User)**
+* **/upc RestrictGroupToWorld <World>**
 * **/upc SetGroups (User) (Groups..)**
 * **/upc SetPlayerPrefix (User) (Prefix)**
 * **/upc SetPlayerSuffix (User) (Suffix)**
@@ -26,6 +29,8 @@
 * **/upc AddGroup <Player> <Group> <Optional Operator: "+" or "-"> <Time>**
 * **/upc createGroup <groupName>**
 * **/upc setGroupPriority <Group> <Priority>**
+* **/upc SetGroupPrefix <Group> <Prefix>**
+* **/upc SetGroupSuffix <Group> <Suffix>**
 
 ### Options
 * Timed Options e.g ``3d`` or ``20h 4m``
