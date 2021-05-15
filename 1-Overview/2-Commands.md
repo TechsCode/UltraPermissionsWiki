@@ -31,6 +31,10 @@
 * **/upc setGroupPriority <Group> <Priority>**
 * **/upc SetGroupPrefix <Group> <Prefix>**
 * **/upc SetGroupSuffix <Group> <Suffix>**
+* **/upc PurgePlayerGroups <User>**
+* **/upc DeleteGroup <Group>**
+* **/upc SetGroupPrefix <Group> <Prefix>**
+* **/upc SetGroupSuffix <Group> <Suffix>**
 
 ### Options
 * Timed Options e.g ``3d`` or ``20h 4m``
