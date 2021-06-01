@@ -36,8 +36,8 @@
 * **/upc SetGroupPrefix <Group> <Prefix>**
 * **/upc SetGroupSuffix <Group> <Suffix>**
 * **/upc deleteUser <User>** (Deletes all data of this player)
-* **/upc TransferAccount <All/Groups/Permissions> <Append/Overwrite> <From> <To>** (Transferes the selected data (all (=group & permissions), groups, permissions) from user (<From>) to user (<To>). If **Append** is selected the transferred files will be appended to the existing datas of <To>. If **overwrite** was seleceted... the groups and permissions of <To> will be deleted and then the datas of <From> will be added. The Datas of <From> (groups & perms) will be deleted in every case
-
+* **/upc TransferAccount <All/Groups/Permissions> <Append/Overwrite> <From> <To>** (Transferes the selected data from user (<From>) to user (<To>). **Append** will append the new incoming datas on the existing one datas of the <To> user. **Overwrite** will remove all existing datas and add the new incoming datas.
+  
 ### Options
 * Timed Options e.g ``3d`` or ``20h 4m``
 * Server Options e.g ``lobby``
