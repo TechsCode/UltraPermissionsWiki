@@ -12,13 +12,13 @@
 * **/upc AddGroupPermission (Group) (Permission)** *Options..*
 * **/upc AddPlayerPermission (User) (Permission)** *Options..*
 * **/upc AddSuperAdmin (User)**
-* **/upc createGroup <groupName>**
-* **/upc DeleteGroup <Group>**
-* **/upc DeleteUser <User>**
+* **/upc createGroup (groupName)**
+* **/upc DeleteGroup (Group)**
+* **/upc DeleteUser (User)**
 * **/upc PurgeGroup (Group)**
 * **/upc PurgeGroupPermission (Permission)**
-* **/upc PurgePlayerGroups <User>**
-* **/upc PurgePlayerGroups <User>**
+* **/upc PurgePlayerGroups (User)**
+* **/upc PurgePlayerGroups (User)**
 * **/upc PurgePlayerPermission (Permission)**
 * **/upc PurgeSuperAdmins**
 * **/upc RemoveGroup (User) (Group)**
@@ -34,7 +34,7 @@
 * **/upc SetGroupSuffix <Group> <Suffix>**
 * **/upc SetGroupPrefix <Group> <Prefix>**
 * **/upc SetGroupSuffix <Group> <Suffix>**
-* **/upc TransferAccount <All/Groups/Permissions> <Append/Overwrite> <From> <To>** (Transferes the selected data from user (<From>) to user (<To>). **Append** will append the new incoming datas on the existing one datas of the <To> user. **Overwrite** will remove all existing datas and add the new incoming datas.
+* **/upc TransferAccount (All/Groups/Permissions) (Append/Overwrite) (From) (To)** (Transferes the selected data from user (From) to user (To). **Append** will append the new incoming datas on the existing one datas of the (To) user. **Overwrite** will remove all existing datas and add the new incoming datas.
 * **/upc Transfer (File/MySQL) (File/MySQL)**
 
 ### Options
