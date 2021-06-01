@@ -8,12 +8,16 @@
 ### Other Commands
 * **/upc AddGroup (User) (Group)** *Options..*
 * **/upc AddGroup (User)) (Group) (Optional Operator: "+" or "-")** *Options..*
+* **/upc AddGroup <Player> <Group> <Optional Operator: "+" or "-"> <Time>**
 * **/upc AddGroupPermission (Group) (Permission)** *Options..*
 * **/upc AddPlayerPermission (User) (Permission)** *Options..*
 * **/upc AddSuperAdmin (User)**
+* **/upc createGroup <groupName>**
 * **/upc DeleteGroup <Group>**
+* **/upc DeleteUser <User>**
 * **/upc PurgeGroup (Group)**
 * **/upc PurgeGroupPermission (Permission)**
+* **/upc PurgePlayerGroups <User>**
 * **/upc PurgePlayerGroups <User>**
 * **/upc PurgePlayerPermission (Permission)**
 * **/upc PurgeSuperAdmins**
@@ -25,19 +29,14 @@
 * **/upc SetGroups (User) (Groups..)**
 * **/upc SetPlayerPrefix (User) (Prefix)**
 * **/upc SetPlayerSuffix (User) (Suffix)**
-* **/upc Transfer (File/MySQL) (File/MySQL)**
-* **/upc AddGroup <Player> <Group> <Optional Operator: "+" or "-"> <Time>**
-* **/upc createGroup <groupName>**
 * **/upc setGroupPriority <Group> <Priority>**
 * **/upc SetGroupPrefix <Group> <Prefix>**
 * **/upc SetGroupSuffix <Group> <Suffix>**
-* **/upc PurgePlayerGroups <User>**
-* **/upc DeleteGroup <Group>**
 * **/upc SetGroupPrefix <Group> <Prefix>**
 * **/upc SetGroupSuffix <Group> <Suffix>**
-* **/upc deleteUser <User>** (Deletes all data of this player)
 * **/upc TransferAccount <All/Groups/Permissions> <Append/Overwrite> <From> <To>** (Transferes the selected data from user (<From>) to user (<To>). **Append** will append the new incoming datas on the existing one datas of the <To> user. **Overwrite** will remove all existing datas and add the new incoming datas.
-  
+* **/upc Transfer (File/MySQL) (File/MySQL)**
+
 ### Options
 * Timed Options e.g ``3d`` or ``20h 4m``
 * Server Options e.g ``lobby``
