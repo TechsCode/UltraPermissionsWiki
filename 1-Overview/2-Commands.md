@@ -12,6 +12,7 @@
 * **/upc AddGroupPermission (Group) (Permission)** *Options..*
 * **/upc AddPlayerPermission (User) (Permission)** *Options..*
 * **/upc AddSuperAdmin (User)**
+* **/upc CopyGroup {Group) {copyGroupName}**
 * **/upc createGroup (groupName)**
 * **/upc DeleteGroup (Group)**
 * **/upc DeleteUser (User)**
