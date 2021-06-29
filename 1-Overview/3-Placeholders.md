@@ -4,7 +4,7 @@ These Placeholders can only be used after installing the *PlaceholderAPI* & only
 
 <br />
 
-* **%uperms_has_permission_(permission)%** Ex. ``true`` or ``false``
+* **%`uperms_has_permission_(permission)``%** Ex. ``true`` or ``false``
   Shows if the player has the specific permission.
 * **%uperms_has_group_(group)%** Ex. ``true`` or ``false``
   Shows if the player is member of the specific group.
