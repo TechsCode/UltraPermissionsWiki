@@ -12,7 +12,7 @@ In the next step, you have to enable MySQL for every Server with the ingame GUI.
 
 <br />
 
-* Execute **/upc addSuperadmin (Your IGN)** via Console to give yourself the ability to access /uperms
+* Execute **upc addSuperadmin (Your IGN)** via Console to give yourself the ability to access /uperms
 * Execute **/uperms**, navigate to *Expand > Settings > MySQL* and enter your MySQL credentials 
 * Restart your Server
 
