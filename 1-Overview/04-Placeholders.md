@@ -1,8 +1,6 @@
-## Placeholders
-
-These Placeholders can only be used after installing the *PlaceholderAPI* & only with a plugin that supports those.
-
-<br />
+# Placeholders
+Below is a list of all available placeholders. Keep in mind these placeholders require [*PlaceholderAPI*](https://www.spigotmc.org/resources/6245/) & a plugin that supports the API!
+<br>
 
 * **%``uperms_has_permission_(permission)``%** Ex. ``true`` or ``false``
   Shows if the player has the specific permission.
